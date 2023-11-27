@@ -1,0 +1,6 @@
+Nama	NIM	Semester
+Andi	11119	1
+selesai 	3111	2
+Rahma	11131	3
+Bima	11112	1
+Zeno	11198	9
